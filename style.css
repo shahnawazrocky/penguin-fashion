@@ -1,11 +1,27 @@
 *{
     background-color: oldlace;
 }
+
 .head img{
     width: 200px;
 }
 header{
-    oldlace
+
 }
 .con img{
+    margin-top: 0px;
     width: 400px;
+    height: 550px;
+}
+.bon img{
+    margin-top: 0px;
+    width: 50px;
+    height: 50px;
+    
+}
+.bon{
+    margin: 0;
+    padding: 0%;
+    display: inline;
+    
+}
